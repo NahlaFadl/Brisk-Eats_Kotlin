@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application_k</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="hello_blank_fragment">مرحبا</string>
+    <string name="name">الاسم</string>
+    <string name="email_address">عنوان البريج الاكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="sign_up">التسجيل</string>
+    <string name="by_signing_you_agree_to_the">للتسحل سوف توافق علي شروطنا</string>
+    <string name="terms_and_condition">الفواعد و الشروط</string>
+    <string name="pleas_sign_up_to_continue">سجل اولا للاستمرار</string>
+    <string name="skip">تخطي</string>
+    <string name="cancel">الغاء</string>
+    <string name="done">تم</string>
+    <string name="pleas_edit_your_profile">ادخل بريدك الالكتروني</string>
+    <string name="textview">نص</string>
+    <string name="accept_terms">اوافق الشروط</string>
+    <string name="read_more">قراءة المزيد</string>
+    <string name="enter_code_for_verification">ادخل كود التحقق</string>
+    <string name="message">سوف يتم ارسال رسالة نصيه علي الرقم الخاص بك</string>
+    <string name="contiinue">استمر</string>
+    <string name="mesage_2">اذ لم تلقلى اي كود خلال  15 ثانيه اضغط اسفل لكي يتم اعادة ارسال الكود</string>
+    <string name="confirm_password">تاكيد كلمو المرور</string>
+    <string name="save">حفظ</string>
+    <string name="we_will_send_averication_code_to_your_phone_via_text_message">سوف يتم ارسال رسالة نصيه علي الرقم الخاص بك</string>
+    <string name="enter_email">عنوان البريد الالكتروني</string>
+    <string name="edite_profile">تعديل الملف الشخصي</string>
+    <string name="address">العنوان</string>
+    <string name="language">اللغة</string>
+    <string name="about_us">من نحن</string>
+    <string name="log_out">اسجيل الخروج</string>
+    <string name="your_favourite">المفضلة</string>
+    <string name="account_setting">اعدادت الحساب</string>
+    <string name="login">سجل الدخول  للاستمرار</string>
+    <string name="log_in_but">"تسجيل الدحول "</string>
+    <string name="don_t_have_an_account">لا تملك حساب؟</string>
+    <string name="signup">"تسجيل "</string>
+    <string name="english">الانجليزية</string>
+    <string name="arabic">العربية</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="hom" />
+    <item
+        android:id="@+id/order"
+        android:icon="@drawable/noun_order_371293"
+        android:title="no order" />
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/open_menu"
+        android:title="menu" />
+
+    <item
+        android:id="@+id/supermarket"
+        android:icon="@drawable/supermarket"
+        android:title="supermarket" />
+
+
+</menu>

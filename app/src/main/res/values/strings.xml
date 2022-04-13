@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My Application_k</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="by_signing_you_agree_to_the">By Signing , You Agree To The</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="pleas_sign_up_to_continue">Pleas sign-up to continue</string>
+    <string name="skip">Skip</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="pleas_edit_your_profile">Pleas Edit your Profile</string>
+    <string name="textview">TextView</string>
+    <string name="accept_terms">Accept Terms</string>
+    <string name="read_more">Read More</string>
+    <string name="enter_code_for_verification">Enter Code For Verification</string>
+    <string name="message">We Will Send Averication Code to your phone Via Text Message</string>
+    <string name="contiinue">continue</string>
+    <string name="mesage_2">If You Don`t Receive The Code With 15 second Tap below to Re-send it</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="save">save</string>
+    <string name="we_will_send_averication_code_to_your_phone_via_text_message">We Will Send Averication Code to your phone Via Text Message</string>
+    <string name="enter_email">Email Address</string>
+    <string name="edite_profile">Edite Profile</string>
+    <string name="address">Address</string>
+    <string name="language">Language</string>
+    <string name="about_us">About Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="your_favourite">Your Favourite</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="login">pleas log-in to continue</string>
+    <string name="log_in_but">log in</string>
+    <string name="don_t_have_an_account">Don`t Have An Account?</string>
+    <string name="signup">Sign-Up</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="size">Size</string>
+</resources>
